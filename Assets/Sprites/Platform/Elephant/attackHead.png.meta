@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: 1bbc6983a473d0142aa0b3c8b26d1e63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7699059101320884654
+    second: attackHead_0
+  - first:
+      213: -9129657193545023197
+    second: attackHead_1
+  - first:
+      213: 8738559156074977502
+    second: attackHead_2
+  - first:
+      213: -7692492642056771626
+    second: attackHead_3
+  - first:
+      213: 5185650560542636679
+    second: attackHead_4
+  - first:
+      213: 8801269978616609889
+    second: attackHead_5
+  - first:
+      213: 3868936320434259954
+    second: attackHead_6
+  - first:
+      213: -6408804956388318141
+    second: attackHead_7
+  - first:
+      213: -7342880101503830207
+    second: attackHead_8
+  - first:
+      213: -4434857265677877591
+    second: attackHead_9
+  - first:
+      213: -5046404730584050469
+    second: attackHead_10
+  - first:
+      213: 951278397145787307
+    second: attackHead_11
+  - first:
+      213: 5466956139293364775
+    second: attackHead_12
+  - first:
+      213: 2042370852227295669
+    second: attackHead_13
+  - first:
+      213: 7043365147768927900
+    second: attackHead_14
+  - first:
+      213: -3605721456657571926
+    second: attackHead_15
+  - first:
+      213: 5464009772274493805
+    second: attackHead_16
+  - first:
+      213: -5837156676976518700
+    second: attackHead_17
+  - first:
+      213: -6167557256141385540
+    second: attackHead_18
+  - first:
+      213: 7813015593452142066
+    second: attackHead_19
+  - first:
+      213: -3718255932172386588
+    second: attackHead_20
+  - first:
+      213: 455168734576346717
+    second: attackHead_21
+  - first:
+      213: 6053264708216558460
+    second: attackHead_22
+  - first:
+      213: 8764493427972943163
+    second: attackHead_23
+  - first:
+      213: -2907299925850667989
+    second: attackHead_24
+  - first:
+      213: -2360496594967156290
+    second: attackHead_25
+  - first:
+      213: 3022406343350036001
+    second: attackHead_26
+  - first:
+      213: 7004998828415474718
+    second: attackHead_27
+  - first:
+      213: -6233002735742418322
+    second: attackHead_28
+  - first:
+      213: 4762142670057825343
+    second: attackHead_29
+  - first:
+      213: -5680304616271995020
+    second: attackHead_30
+  - first:
+      213: 3080875477206922476
+    second: attackHead_31
+  - first:
+      213: -9158629494109270049
+    second: attackHead_32
+  - first:
+      213: -5369372276408143086
+    second: attackHead_33
+  - first:
+      213: 9220167140312810415
+    second: attackHead_34
+  - first:
+      213: -2371156682154345199
+    second: attackHead_35
+  - first:
+      213: -9003386394067597025
+    second: attackHead_36
+  - first:
+      213: -7239716472596827281
+    second: attackHead_37
+  - first:
+      213: 3265954284800943592
+    second: attackHead_38
+  - first:
+      213: -7843181064573740993
+    second: attackHead_39
+  - first:
+      213: -4601623404289333630
+    second: attackHead_40
+  - first:
+      213: -3027145972572745406
+    second: attackHead_41
+  - first:
+      213: -1726471899087230790
+    second: attackHead_42
+  - first:
+      213: 9072926078595372799
+    second: attackHead_43
+  - first:
+      213: 9044182096460372003
+    second: attackHead_44
+  - first:
+      213: -6055729717505148109
+    second: attackHead_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attackHead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9900
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ec709e982772590800000000000000
+      internalID: -7699059101320884654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 9900
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321c8a94721fc4180800000000000000
+      internalID: -9129657193545023197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 9900
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8169ae049954970800000000000000
+      internalID: 8738559156074977502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_3
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 9900
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d766e8d2b6ce3590800000000000000
+      internalID: -7692492642056771626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9000
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af276c5b127f740800000000000000
+      internalID: 5185650560542636679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 9000
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cb0c71a64642a70800000000000000
+      internalID: 8801269978616609889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 9000
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7471eb51931b530800000000000000
+      internalID: 3868936320434259954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_7
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 9000
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34426b3f8d95f07a0800000000000000
+      internalID: -6408804956388318141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8100
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1477491b379d81a90800000000000000
+      internalID: -7342880101503830207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 8100
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeb5b150d83472c0800000000000000
+      internalID: -4434857265677877591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 8100
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4dfa072a197f9b0800000000000000
+      internalID: -5046404730584050469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_11
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 8100
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baba06089ae933d00800000000000000
+      internalID: 951278397145787307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722d83db4a78edb40800000000000000
+      internalID: 5466956139293364775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7200
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9ae9a1875f75c10800000000000000
+      internalID: 2042370852227295669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 7200
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c963228d84f0fb160800000000000000
+      internalID: 7043365147768927900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_15
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 7200
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafdbe86077e5fdc0800000000000000
+      internalID: -3605721456657571926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6300
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d692fa530ff04db40800000000000000
+      internalID: 5464009772274493805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6300
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d38acde04efea0800000000000000
+      internalID: -5837156676976518700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6300
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb05fc74a5f686aa0800000000000000
+      internalID: -6167557256141385540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_19
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 6300
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd7d4089486d6c60800000000000000
+      internalID: 7813015593452142066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee30ea0ee9166cc0800000000000000
+      internalID: -3718255932172386588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5400
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5689417d85115600800000000000000
+      internalID: 455168734576346717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_22
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5400
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7318a83e24810450800000000000000
+      internalID: 6053264708216558460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_23
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5400
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3da292265cb1a970800000000000000
+      internalID: 8764493427972943163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c628fe1237a7d0800000000000000
+      internalID: -2907299925850667989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4500
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9a6737ad4dd3fd0800000000000000
+      internalID: -2360496594967156290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_26
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4500
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126244e4e8eb1f920800000000000000
+      internalID: 3022406343350036001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4500
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c5bb30251c63160800000000000000
+      internalID: 7004998828415474718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e620904290def79a0800000000000000
+      internalID: -6233002735742418322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3600
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34e68a0787861240800000000000000
+      internalID: 4762142670057825343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_30
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3600
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f981b0c018b21b0800000000000000
+      internalID: -5680304616271995020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_31
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3600
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce471206ce771ca20800000000000000
+      internalID: 3080875477206922476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf8336eff206e080800000000000000
+      internalID: -9158629494109270049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2700
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213bcdddc582c75b0800000000000000
+      internalID: -5369372276408143086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2700
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa30310e92d94ff70800000000000000
+      internalID: 9220167140312810415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_35
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2700
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d756d7f85f71fd0800000000000000
+      internalID: -2371156682154345199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19040ec6cb8d0380800000000000000
+      internalID: -9003386394067597025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637250d93c578b90800000000000000
+      internalID: -7239716472596827281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1800
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5a9364e10035d20800000000000000
+      internalID: 3265954284800943592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_39
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1800
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f381301706c672390800000000000000
+      internalID: -7843181064573740993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286e53de4efb320c0800000000000000
+      internalID: -4601623404289333630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_41
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2411c85c6ca6df5d0800000000000000
+      internalID: -3027145972572745406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_42
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 900
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8263c74f65a08e0800000000000000
+      internalID: -1726471899087230790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_43
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 900
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff61e04b23289ed70800000000000000
+      internalID: 9072926078595372799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328d777d2b3638d70800000000000000
+      internalID: 9044182096460372003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attackHead_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 1200
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b345418e9b5fba0800000000000000
+      internalID: -6055729717505148109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

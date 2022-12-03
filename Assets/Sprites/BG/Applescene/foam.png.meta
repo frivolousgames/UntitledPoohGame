@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 184df9999a6aea342a8c7cdd1750f427
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2279679434788576041
+    second: foam_0
+  - first:
+      213: -400539526601173379
+    second: foam_1
+  - first:
+      213: -7419915806220386332
+    second: foam_2
+  - first:
+      213: 339945681756357217
+    second: foam_3
+  - first:
+      213: -6547206248878439717
+    second: foam_4
+  - first:
+      213: 5469824207103299509
+    second: foam_5
+  - first:
+      213: 3382843538469520422
+    second: foam_6
+  - first:
+      213: -8677477351616214202
+    second: foam_7
+  - first:
+      213: 4358856647540506674
+    second: foam_8
+  - first:
+      213: 4752360028526673093
+    second: foam_9
+  - first:
+      213: 8027147573891157417
+    second: foam_10
+  - first:
+      213: -5985896202374609664
+    second: foam_11
+  - first:
+      213: -272442528670738229
+    second: foam_12
+  - first:
+      213: -7180432172207584194
+    second: foam_13
+  - first:
+      213: -8822566902416923768
+    second: foam_14
+  - first:
+      213: 1869179065727782055
+    second: foam_15
+  - first:
+      213: -8282545196517228182
+    second: foam_16
+  - first:
+      213: -4335127852373579187
+    second: foam_17
+  - first:
+      213: -1029731489859420247
+    second: foam_18
+  - first:
+      213: -1852722876544362847
+    second: foam_19
+  - first:
+      213: -8650980400027249010
+    second: foam_20
+  - first:
+      213: -69858173138212376
+    second: foam_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: foam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3492
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b16502e5c03af10800000000000000
+      internalID: 2279679434788576041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_1
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 3492
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d761f663c6ff07af0800000000000000
+      internalID: -400539526601173379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_2
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 3492
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef7deaf2e9270990800000000000000
+      internalID: -7419915806220386332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_3
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 3492
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1620404ebcab7b400800000000000000
+      internalID: 339945681756357217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_4
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 3492
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd20260fa96a325a0800000000000000
+      internalID: -6547206248878439717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2619
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf8930d228b8eb40800000000000000
+      internalID: 5469824207103299509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_6
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2619
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6248331764642fe20800000000000000
+      internalID: 3382843538469520422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_7
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 2619
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b0b6ee258639780800000000000000
+      internalID: -8677477351616214202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_8
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 2619
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2308087d605cd7c30800000000000000
+      internalID: 4358856647540506674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_9
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 2619
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccf8115446c3f140800000000000000
+      internalID: 4752360028526673093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1746
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adcb655038266f60800000000000000
+      internalID: 8027147573891157417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_11
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1746
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0050a1b5e13ddeca0800000000000000
+      internalID: -5985896202374609664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_12
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1746
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc81fd0b6f6183cf0800000000000000
+      internalID: -272442528670738229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_13
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1746
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cc7c1abfaf95c90800000000000000
+      internalID: -7180432172207584194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_14
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 1746
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883225e6522ff8580800000000000000
+      internalID: -8822566902416923768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac0d4af478a0f910800000000000000
+      internalID: 1869179065727782055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_16
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 873
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61097dc60d7e0d80800000000000000
+      internalID: -8282545196517228182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_17
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 873
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aee5fcf2886d3c0800000000000000
+      internalID: -4335127852373579187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_18
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 873
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af35ec6aa8a5b1f0800000000000000
+      internalID: -1029731489859420247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_19
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 873
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a655542c5ec946e0800000000000000
+      internalID: -1852722876544362847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e865289392b81f780800000000000000
+      internalID: -8650980400027249010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foam_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 0
+        width: 873
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e960759c50d70ff0800000000000000
+      internalID: -69858173138212376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

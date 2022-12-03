@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - AnimalBulletCol
+  - PhysicalCollider
+  - AnimalCollider
+  - CrashPlane
+  - CrashTrigger
+  - ExplosionTrigger
+  - EnemyWeapon
+  - GroundCollider
+  - Ground
+  - Bee
+  - ClimbStop
+  - DropStop
+  - MainCanvas
+  - Border
+  - Sack
+  - WaterPhysCol
+  - SplashCol
+  - ScreenSpatter
+  - Post
+  - Vine
+  - BulletIcon
+  - Syringe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - multi 1
+  - Ground
+  - Water2
+  - Player
+  - Post
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - UI Over
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: multi 1
+    uniqueID: 3032383355
+    locked: 0
+  - name: multi 2
+    uniqueID: 2280652377
+    locked: 0
+  - name: UI
+    uniqueID: 1075333469
+    locked: 0
+  - name: over UI
+    uniqueID: 3176994275
+    locked: 0
